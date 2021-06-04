@@ -1,0 +1,8 @@
+{
+
+    "val_ratio": 0.2,
+	"file_extension": "png",
+	"seed": 1234,
+	"fraction": 1 
+
+}

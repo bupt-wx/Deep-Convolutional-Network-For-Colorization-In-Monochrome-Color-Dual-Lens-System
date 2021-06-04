@@ -1,0 +1,10 @@
+python frank_test_colorization.py -fpath "/home/lexi/Desktop/Frank/coarse-to-fine-colorization/datasets_noise03_reverse/level2/sceneflow" -outpath "test/sceneflow"
+
+
+#python frank_test_colorization.py -fpath "/home/lexi/Desktop/Frank/coarse-to-fine-colorization/datasets_noise03_reverse/level3/middlebury" -outpath "test/middlebury"
+
+
+
+#python frank_test_colorization.py -fpath "/home/lexi/Desktop/Frank/coarse-to-fine-colorization/datasets_noise03_reverse/level3/cityscapes" -outpath "test/cityscapes"
+
+#python frank_test_colorization.py -fpath "/home/lexi/Desktop/Frank/coarse-to-fine-colorization/datasets_noise03_reverse/level2/sintel" -outpath "test/sintel"

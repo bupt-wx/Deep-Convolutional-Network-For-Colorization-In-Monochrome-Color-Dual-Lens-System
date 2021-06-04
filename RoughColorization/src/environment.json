@@ -1,0 +1,7 @@
+{
+	"frank_root":"/home/c/WangXia/codes/AAAI2019/pictures/sceneflow",
+	"train_all": 0,
+	"train_driving": 1,
+	"train_monkaa": 0 
+}
+
