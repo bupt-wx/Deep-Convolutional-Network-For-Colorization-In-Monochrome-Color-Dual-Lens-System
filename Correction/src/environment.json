@@ -1,0 +1,13 @@
+{
+	"sceneflow_root": "data_test_out/sceneflow",
+	"driving_root": "driving",
+	"driving_train": "frames_finalpass",
+	"driving_label": "disparity",
+	"monkaa_root": "monkaa",
+	"monkaa_train": "frames_cleanpass",
+	"monkaa_label": "disparity",
+	"train_all": 0,
+	"train_driving": 1,
+	"train_monkaa": 0 
+}
+
