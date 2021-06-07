@@ -4,7 +4,7 @@ Xuan Dong, Weixin Li, Xiaojie Wang, Yunhong Wang.In AAAI,2019<br><br>
 This is the implementation code of AAAI2019's paper "Learning a Deep Convolutional Network for Coloration in Monochrome-Color Dual-Lens System".The example coloring result of gray image is shown in the figure below.<br>
 ![图片](https://user-images.githubusercontent.com/84729271/120930077-555c7100-c71e-11eb-8d52-6cc9be3851dd.png)<br><br>
 Clone the repository.<br>
-`git clone https://github.com/bupt-wx/AAAI2020-Image-Colorization_of_dx.git`<br>
+`git clone https://github.com/bupt-wx/AAAI2019-Image-Colorization_of_dx.git`<br>
 Required environment version information.<br>
 `Tensorflow 1.11; Python 3.6`<br><br>
 The algorithm is divided into rough coloring and color correction.<br>
