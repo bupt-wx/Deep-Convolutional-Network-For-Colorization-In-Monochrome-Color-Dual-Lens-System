@@ -6,7 +6,7 @@ This is the implementation code of AAAI2019's paper "Learning a Deep Convolution
 Clone the repository.<br>
 `git clone https://github.com/bupt-wx/AAAI2019-Image-Colorization_of_dx.git`<br>
 Required environment version information.<br>
-`Tensorflow 1.11; Python 3.6`<br><br>
+`Tensorflow 1.8.0; Keras 2.1.6; Python 3.6`<br><br>
 The algorithm is divided into rough coloring and color correction.<br>
 You can test this project by using the following commands and using the images in the Sample_input folder.It should be noted that the algorithm uses the Ycbcr color space, and the pre-processing and post-processing of the algorithm requires converting the color space of the image.<br>
 The first step-rough colorization, using test files in RoughColorization folder.The test command is as follows:<br>
