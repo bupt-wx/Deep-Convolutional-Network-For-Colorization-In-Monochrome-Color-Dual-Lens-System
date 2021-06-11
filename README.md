@@ -3,7 +3,7 @@ Xuan Dong, Weixin Li, Xiaojie Wang, Yunhong Wang.In AAAI,2019<br><br>
 
 This is the implementation code of AAAI2019's paper "Learning a Deep Convolutional Network for Coloration in Monochrome-Color Dual-Lens System".The example coloring result of gray image is shown in the figure below.<br>
 ![图片](https://user-images.githubusercontent.com/84729271/121709848-8e745700-cb0b-11eb-90fc-1de3f7b5c5f4.png)<br><br>
-Download the original paper.<br><br>
+Download the original paper.<br>
 [Learning a Deep Convolutional Network for Coloration in Monochrome-Color Dual-Lens System.pdf](https://github.com/bupt-wx/AAAI2019-Image-Colorization_of_dx/files/6639484/Learning.a.Deep.Convolutional.Network.for.Coloration.in.Monochrome-Color.Dual-Lens.System.pdf)<br><br>
 Clone the repository.<br>
 `git clone https://github.com/bupt-wx/AAAI2019-Image-Colorization_of_dx.git`<br>
